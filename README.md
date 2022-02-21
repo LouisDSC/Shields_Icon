@@ -1,6 +1,6 @@
 # 💡&nbsp You can see all the icons 
 ## Icons from Shields.io 
-🤝🏻 Google Developer Groups [Shields icons](https://shields.io/)
+🤝🏻 [Shields icons](https://shields.io/)
 
 
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
